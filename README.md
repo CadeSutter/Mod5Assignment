@@ -15,7 +15,8 @@
 #### User wins, return x2 amount bet
 
 
-
+#Proposed New Rule:
+On every game, at least 3 rounds must go by before anyone is may bet more than 1000 dollars, or any other high amount.
 
 
 
